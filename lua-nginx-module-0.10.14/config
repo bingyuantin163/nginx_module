@@ -1,3 +1,5 @@
+export LUAJIT_INC=/usr/local/LuaJIT/include/luajit-2.1
+export LUAJIT_LIB=/usr/local/LuaJIT/lib
 ngx_feature="Lua library"
 ngx_feature_libs="-llua -lm"
 ngx_feature_name=
